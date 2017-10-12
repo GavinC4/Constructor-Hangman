@@ -1,2 +1,2 @@
-# week11-hangman
+# constructor-hangman
 Hangman game using Node.js
